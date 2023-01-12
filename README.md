@@ -1,4 +1,4 @@
-Simple Counter on React
+Simple ToDoList on React
 
 1) Use repository link in PowerShell or CMD with administator `git clone <link>`
 
